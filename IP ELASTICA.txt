@@ -1,0 +1,3 @@
+ip actual  54.91.212.208
+
+ip elastica 44.207.87.246   <==Funcionamiento
